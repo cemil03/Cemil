@@ -1,0 +1,9 @@
+number of types: 8
+Byte
+Short
+Int
+Long
+Float
+Double
+Char
+Bool
